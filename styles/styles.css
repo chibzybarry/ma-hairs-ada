@@ -1,0 +1,53 @@
+.home1{
+
+    color: white;
+    text-align: center;
+    padding-left: 500px;
+}
+
+
+#firstt{
+    display: flex;
+    background-color: black;
+    padding-left: 200px;
+    padding: 5px;
+
+}
+
+.facebuk{
+    color: white;
+    justify-content: space-between;
+padding-left: 250px;
+
+}
+
+
+.primarrry{
+    background-color: rgb(223, 206, 209);
+}
+
+
+
+.searchh{
+    display: flex;
+    justify-content: space-around;
+}
+
+.searchh span {
+    margin: 0 13px;
+}
+
+.facebuk span {
+    margin: 0 13px;
+}
+
+.maaa{
+    color: green;
+    font-weight: bold;
+    pointer-events: visibleStroke;
+   
+}
+
+.maaa:hover {
+    color: rgb(250, 86, 113) !important;
+}
